@@ -1,0 +1,2 @@
+# premium-oscillate-sand-001-oscillating-sander-building
+Tired of losing track of your oscillating sander build specs while you're in the middle of a spindle drum craft? This Notion template keeps every measurement, material list, and step in one unified workspace, so you never have to re-measure or re-plan.  This template solves the chaos of juggling two precision woodworking projects by giving you a si
